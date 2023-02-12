@@ -1,0 +1,25 @@
+DB NAME: phpcrud
+TABLE NAME: tb_student 
+Columns: 7
+
+1. id		11	AUTO_INCREMENT	
+2. firstname	200	VARCHAR
+3. lastname	200	VARCHAR
+4. mobilenumber		BIGINT
+5. email		250	VARCHAR
+6. address			TEXT
+7. creationdate		TIMESTAMP
+
+
+profile card size: 180x180 pixels
+
+
+LOGIN/REG/LOGOUT DATABASE NAME: crud_login
+TB NAME: student_login
+
+1. id  AUTO_INCREMENT
+2. fullname 200 VARCHAR
+3. username 200 VARCHAR
+4. password 200 VARCHAR
+5. email 200 VARCHAR
+6. phonenumber 20 BIGINT
